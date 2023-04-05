@@ -22,3 +22,5 @@
 
  <p>첫째 줄에 DFS를 수행한 결과를, 그 다음 줄에는 BFS를 수행한 결과를 출력한다. V부터 방문된 점을 순서대로 출력하면 된다.</p>
 
+### 풀이 과정
+![image](https://user-images.githubusercontent.com/39722575/230087676-2b36d8d0-08cc-4a7e-af99-bd015f144539.png)
