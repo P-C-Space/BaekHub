@@ -5,6 +5,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 * 2566 [최댓값](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Unrated/2566.%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92)
 * 2720 [세탁소 사장 동혁](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Unrated/2720.%E2%80%85%EC%84%B8%ED%83%81%EC%86%8C%E2%80%85%EC%82%AC%EC%9E%A5%E2%80%85%EB%8F%99%ED%98%81)
 * 2738 [행렬 덧셈](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2738.%E2%80%85%ED%96%89%EB%A0%AC%E2%80%85%EB%8D%A7%EC%85%88)
+* 2745 [진법 변환](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2745.%E2%80%85%EC%A7%84%EB%B2%95%E2%80%85%EB%B3%80%ED%99%98)
 * 2750 [수 정렬하기](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2750.%E2%80%85%EC%88%98%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
 * 2798 [블랙잭](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Unrated/2798.%E2%80%85%EB%B8%94%EB%9E%99%EC%9E%AD)
 * 10798 [세로 읽기](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Unrated/10798.%E2%80%85%EC%84%B8%EB%A1%9C%EC%9D%BD%EA%B8%B0)
