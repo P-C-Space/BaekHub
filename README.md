@@ -10,6 +10,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 * 2798 [블랙잭](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Unrated/2798.%E2%80%85%EB%B8%94%EB%9E%99%EC%9E%AD)
 * 10798 [세로 읽기](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Unrated/10798.%E2%80%85%EC%84%B8%EB%A1%9C%EC%9D%BD%EA%B8%B0)
 * 10989 [수 정렬하기 3](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10989.%E2%80%85%EC%88%98%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%E2%80%853)
+* 11005 [진법 변환 2](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11005.%E2%80%85%EC%A7%84%EB%B2%95%E2%80%85%EB%B3%80%ED%99%98%E2%80%852)
 ## Sliver
 * 1002 [터렛](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Silver/1002.%E2%80%85%ED%84%B0%EB%A0%9B)
 * 1003 [피보나치함수](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Silver/1003.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%ED%95%A8%EC%88%98)
