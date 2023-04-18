@@ -16,3 +16,4 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 * 1260 [DFS와 BFS](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Silver/1260.%E2%80%85DFS%EC%99%80%E2%80%85BFS)
 * 1436 [영화감독 숌](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Unrated/1436.%E2%80%85%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%E2%80%85%EC%88%8C)
 * 1427 [소트인사이드](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Silver/1427.%E2%80%85%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C)
+* 2563 [색종이](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Silver/2563.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4)
