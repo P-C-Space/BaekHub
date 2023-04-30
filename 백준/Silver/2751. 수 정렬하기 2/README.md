@@ -22,3 +22,9 @@
 
  <p>첫째 줄부터 N개의 줄에 오름차순으로 정렬한 결과를 한 줄에 하나씩 출력한다.</p>
 
+## 풀이 과정
+![KakaoTalk_20230430_205809261](https://user-images.githubusercontent.com/39722575/235352329-b59dc397-0154-483d-b2b8-9dfb4673f87d.jpg)
+![KakaoTalk_20230430_205809567](https://user-images.githubusercontent.com/39722575/235352330-0d32a13b-f705-4c45-9646-90f5c516ed42.jpg)
+![KakaoTalk_20230430_205809882](https://user-images.githubusercontent.com/39722575/235352331-28b5a268-a43f-44a4-9d60-e7f7f31c9633.jpg)
+![KakaoTalk_20230430_205810194](https://user-images.githubusercontent.com/39722575/235352337-71507394-a015-4d13-893a-876d7927c73a.jpg)
+![KakaoTalk_20230430_205810543](https://user-images.githubusercontent.com/39722575/235352341-c58827a1-2206-464e-bab4-30080e189d7d.jpg)
