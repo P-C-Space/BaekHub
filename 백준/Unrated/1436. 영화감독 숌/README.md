@@ -26,3 +26,5 @@
 
  <p>첫째 줄에 N번째 영화의 제목에 들어간 수를 출력한다.</p>
 
+## 풀이 과정
+![KakaoTalk_20230430_205808945](https://user-images.githubusercontent.com/39722575/235352221-c0637083-061a-4ea8-b2d0-37d5bb373e98.jpg)
