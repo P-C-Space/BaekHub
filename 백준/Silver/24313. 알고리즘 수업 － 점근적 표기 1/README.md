@@ -34,3 +34,5 @@
 
  <p><em>f</em>(<em>n</em>), <em>c</em>, <em>n<sub>0</sub></em>가 O(<em>n</em>) 정의를 만족하면 1, 아니면 0을 출력한다.</p>
 
+### 문제 풀이
+![KakaoTalk_20230430_205810855](https://user-images.githubusercontent.com/39722575/235352101-21deafe3-3bc1-46ed-82a8-b3e52ac1c2b9.jpg)
