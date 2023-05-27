@@ -39,3 +39,4 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 * 10815 [숫자 카드](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Silver/10815.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%B9%B4%EB%93%9C)
 * 14425 [문자열 집합](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Silver/14425.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%A7%91%ED%95%A9)
 * 24313 [알고리즘 수업 - 접근적 표기1](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Silver/24313.%E2%80%85%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%E2%80%85%EC%88%98%EC%97%85%E2%80%85%EF%BC%8D%E2%80%85%EC%A0%90%EA%B7%BC%EC%A0%81%E2%80%85%ED%91%9C%EA%B8%B0%E2%80%851)
+[소수구하기]
