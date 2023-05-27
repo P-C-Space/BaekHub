@@ -34,7 +34,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 * 1436 [영화감독 숌](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Unrated/1436.%E2%80%85%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%E2%80%85%EC%88%8C)
 * 1427 [소트인사이드](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Silver/1427.%E2%80%85%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C)
 * 1764 [듣보잡](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Silver/1764.%E2%80%85%EB%93%A3%EB%B3%B4%EC%9E%A1)
-* 1929[소수구하기]()
+* 1929[소수구하기](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Silver/1929.%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)
 * 2563 [색종이](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Silver/2563.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4)
 * 2751 [수 정렬하기 2](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Silver/2751.%E2%80%85%EC%88%98%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%E2%80%852)
 * 10815 [숫자 카드](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Silver/10815.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%B9%B4%EB%93%9C)
