@@ -3,6 +3,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Bronze
 * 1076 [저항](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1076.%E2%80%85%EC%A0%80%ED%95%AD)
 * 1085 [직사각형에서 탈출](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1085.%E2%80%85%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EC%97%90%EC%84%9C%E2%80%85%ED%83%88%EC%B6%9C)
+* 1356 [유진수](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Bronze/1356.%E2%80%85%EC%9C%A0%EC%A7%84%EC%88%98)
 * 2231 [분해합](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Unrated/2231.%E2%80%85%EB%B6%84%ED%95%B4%ED%95%A9)
 * 2501 [약수 구하기](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2501.%E2%80%85%EC%95%BD%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)
 * 2566 [최댓값](https://github.com/P-C-Space/BaekHub/tree/main/%EB%B0%B1%EC%A4%80/Unrated/2566.%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92)
